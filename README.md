@@ -1,3 +1,3 @@
-# 01-color-flipper
+Colour Flipper
 
 Random colour generator using javascript.
